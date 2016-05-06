@@ -1,4 +1,4 @@
-package com.prairie.memfs;
+package org.lttpp.memfs;
 
 import java.io.IOException;
 import java.net.URI;
